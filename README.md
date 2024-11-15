@@ -1,17 +1,46 @@
-👋 Hi, I’m @Rishavroy-2006
+# 👋 Hey there, I'm **Rishav Roy**!
 
-👀 I’m interested in ... Coding,Games,Cooking
+### 👀 About Me:
+- 🧑‍💻 Passionate about **coding**, addicted to **gaming**, and experimenting in the **kitchen**.
+- 🌱 Currently diving deep into **C Programming** and building my programming skills.
+- 🎮 BGMI enthusiast sharing epic gameplay on [Instagram](https://instagram.com/rishav.royy)!
+- ⚡ Fun Fact: I could survive on Maggi for life. 🍜
 
-🌱 I’m currently learning ...C Programming
+---
 
-📫 How to reach me ...@rishav.royy
+### 🛠️ Tech & Tools:
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
-😄 Pronouns: ...him
+---
 
-⚡ Fun fact: ...I love Maggi?
+### 💻 What I'm Working On:
+- 🔭 Exploring beginner-level coding projects to sharpen my skills.
+- 🚀 Learning more about **AI & ML** as part of my B.Tech specialization.
 
+---
 
-<!---
-Rishavroy-2006/Rishavroy-2006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 📫 Let's Connect:
+- 📷 **Instagram**: [@rishav.royy](https://instagram.com/rishav.royy)
+- 💌 **Email**: rishavroy@example.com *(replace with actual email)*
+- 🌐 **GitHub**: [Rishavroy-2006](https://github.com/Rishavroy-2006)
+
+---
+
+### 🎯 Goals:
+- 🏆 Build an amazing portfolio showcasing my projects.
+- 📚 Master multiple programming languages and dive into **game development**.
+- 🌟 Collaborate with like-minded devs and gamers.
+
+---
+
+### 🔥 Fun Stuff:
+- 🎧 Music fuels my coding sessions.
+- 🎯 Favorite mantra: *"Code, Play, Eat, Repeat!"*
+- 😄 **Maggi Life** – Because life without Maggi is no life at all. 🍜
+
+---
+
+Thanks for stopping by! ✨
