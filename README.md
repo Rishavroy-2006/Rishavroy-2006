@@ -3,7 +3,7 @@
 ### 👀 About Me:
 - 🧑‍💻 Passionate about **coding**, addicted to **gaming**, and experimenting in the **kitchen**.
 - 🌱 Currently diving deep into **C Programming** and building my programming skills.
-- 🎮 BGMI enthusiast sharing epic gameplay on [Instagram](https://instagram.com/rishav.royy)!
+- 🎮 BGMI enthusiast.
 - ⚡ Fun Fact: I could survive on Maggi for life. 🍜
 
 ---
@@ -24,7 +24,8 @@
 
 ### 📫 Let's Connect:
 - 📷 **Instagram**: [@rishav.royy](https://instagram.com/rishav.royy)
-- 💌 **Email**: rishavroy@example.com *(replace with actual email)*
+- 💼 **LinkedIn**: [Rishav Roy](https://www.linkedin.com/in/rishav-roy2006)
+- 💌 **Email**: [rishavroy2006@gmail.com](mailto:rishavroy2006@gmail.com)
 - 🌐 **GitHub**: [Rishavroy-2006](https://github.com/Rishavroy-2006)
 
 ---
