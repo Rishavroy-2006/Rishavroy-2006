@@ -32,7 +32,7 @@
 
 ### 🎯 Goals:
 - 🏆 Build an amazing portfolio showcasing my projects.
-- 📚 Master multiple programming languages and dive into **game development**.
+- 📚 Master multiple programming languages and dive into **development**.
 - 🌟 Collaborate with like-minded devs and gamers.
 
 ---
